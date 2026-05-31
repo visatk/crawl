@@ -1,7 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
 import { Card, CardHeader, CardTitle, CardContent, CardDescription } from '@/components/ui/card';
 import { Loader2, CheckCircle, XCircle, AlertCircle } from 'lucide-react';
-import { cn } from '@/lib/utils';
 
 interface JobStatusProps {
   jobId: string;
