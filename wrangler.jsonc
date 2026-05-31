@@ -19,11 +19,11 @@
   "kv_namespaces": [
     {
       "binding": "KV",
-      "id": "<BINDING_ID>"
+      "id": "6ac153e94a164cbaa841e8a8d80b5261"
     },
     {
       "binding": "JOB_HISTORY",
-      "id": "dummy-kv-id"
+      "id": "7991cfd213dd4ac981bbb840711d5120"
     }
   ]
 }
